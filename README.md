@@ -10,7 +10,7 @@ Com recursos como busca de texto completo, navegação geoespacial e indexação
 
 ## Fontes  de consultas para execução do projeto:
 
-Além das aulas do Bootcamp Microsoft Azure AI Fundamentals da [DIO](dio.me) foi utilizado a orientação do [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
+ Aulas do Bootcamp Microsoft Azure AI Fundamentals da [DIO](dio.me) e a orientação da [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
 ### Para este projeto foi necessário a utilização de 03 serviços da plataforma:
 
